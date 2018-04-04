@@ -1,0 +1,13 @@
+int b;
+b=2;
+b=1.1;
+float a;
+a=4.8;
+a=4;
+int a;
+float b;
+int b;
+char c,d;
+c=a+b;
+c=d;
+int c;

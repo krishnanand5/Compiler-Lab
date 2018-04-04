@@ -1,0 +1,15 @@
+//char real
+
+/*This is a 
+multiline comment*/
+int main()
+{
+char a_ = 10 ;
+real b_ = 20;
+
+
+}
+
+
+
+

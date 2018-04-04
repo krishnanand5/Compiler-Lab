@@ -1,0 +1,6 @@
+int i;
+int a[2];
+float c
+float x;
+a[i]=1;
+x=c+a[i];

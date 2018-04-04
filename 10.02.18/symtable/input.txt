@@ -1,0 +1,5 @@
+int aa
+float b1
+float aa
+aa = 10
+b1 = a1

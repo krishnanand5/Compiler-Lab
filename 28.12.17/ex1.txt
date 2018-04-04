@@ -1,0 +1,6 @@
+int main()
+{
+int b_ = 5;
+if ( b_ == 5)
+printf("Number is 5");
+}

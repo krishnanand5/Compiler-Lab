@@ -1,0 +1,8 @@
+int main()
+{
+int a_ = 5;
+b_ = c_ * 5;
+while (d_ <= 0 )
+{
+}
+}
